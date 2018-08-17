@@ -2,7 +2,12 @@
 > How to embed Elm in a Vue app
 
 
-### Try it Locally
+### Example
+
+Here is [what it looks like!](https://elm-vue.netlify.com/)
+
+
+### Run it Locally
 
 1. __`npm install`__
 
